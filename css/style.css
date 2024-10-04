@@ -135,4 +135,32 @@ section {
 }
 /* /6th Section */
 
+/* 7th section */
+.row-footer {
+    background-color: #00bd78;
+    display: flex;
+    justify-content: space-between;
+    margin: auto;
+    padding: 10px;
+    width: 100%;
+}
 
+.black-background-footer {
+    background-color: #383838;
+    border-top: 3px solid #cacaca;
+    border-bottom: 3px solid #cacaca;
+}
+/* /7th section */
+
+
+.logo {
+    background-color: #cb4646;
+    border: 3px dashed #000000;
+    padding: 10px;
+}
+
+.bottone {
+    background-color: #cb4646;
+    border: 3px dashed #000000;
+    padding: 10px;
+}
