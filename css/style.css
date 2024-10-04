@@ -17,11 +17,90 @@
 }
 
 .row {
+    border: 3px dashed #000000;
+    background-color: #dea702;
     display: flex;
     justify-content: space-between;
-    background-color: #dea702;
     margin: auto;
-    border: 3px dashed #000000;
     padding: 10px;
 }
 
+/* First Section*/
+.blue-section {
+    background-color: #0000a3;
+    height: 400px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.box-pink{
+    background-color: #ff87fd;
+    border: 1px solid #000000;
+    border: 3px dashed #000000;
+    height: 300px;
+    width: 700px;
+}
+/* /First Section*/
+
+/* Second Section */
+.white-background{
+    background: #ffffff;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.main-container{
+    height: 500px;
+    width: 60%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.box-blue{
+    background-color: #4080ff;
+    border: 3px dashed #000000;
+    height: 400px;
+    width: 60%;
+}
+
+.box-pink2{
+    background-color: #fdbafc;
+    border: 3px dashed #000000;
+    height: 400px;
+    width: 40%;
+}
+/* /Second Section */
+
+
+
+
+
+
+
+
+/* Third Section */
+.grey-background{
+    background-color: #cacaca;
+    height: 500px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.box-pink2{
+    background-color: #fdbafc;
+    border: 3px dashed #000000;
+    height: 400px;
+    width: 40%;
+}
+
+.box-blue{
+    background-color: #4080ff;
+    border: 3px dashed #000000;
+    height: 400px;
+    width: 60%;
+}
+/* /Third Section */
